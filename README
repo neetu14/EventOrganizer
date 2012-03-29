@@ -1,4 +1,18 @@
 hello world!!!
 
 
-This is Vemana Institute of Technology , conducting seminar for 8th IS today.....
+
+
+
+# cd ~/repo01
+# git clone --bare . ../remote-repository.git
+# ls ~/remote-repository.git
+
+
+
+
+# cd ~/repo01
+ # echo "Hello, hello. Turn your radio on" > test01
+# echo "Bye, bye. Turn your radio off" > test02 
+# git commit -a -m "Some changes“
+ # git push ../remote-repository.git
