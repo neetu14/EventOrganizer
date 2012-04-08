@@ -21,7 +21,7 @@ public class P1Activity extends Activity implements OnClickListener{
         buttonUpdate.setOnClickListener(this);
     }
     
-   //this is Git demo....  and now push it github
+   //this is Git demo....  and now push it github which is socialnetworking site to provide public repositories....
     
     
     public void onClick(View v) {
